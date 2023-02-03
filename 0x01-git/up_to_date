@@ -1,0 +1,8 @@
+To pull remote changes locally you can use the command
+>> git pull
+
+Alternatively, you can split the action in two steps using 
+>> git fetch
+>> git merge
+
+N.B. Make sure to search for the appropriate tags to use
